@@ -19,8 +19,6 @@ Application means the software program provided by the Company downloaded by You
 
 Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Find Differences | AGES.
 
-Country refers to: Egypt
-
 Device means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 
 Peronal Data is any information that relates to an identified or identifiable individual.
